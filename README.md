@@ -1,4 +1,4 @@
-# 📺 Netflix Data Analysis
+# Netflix Data Analysis
 
 Welcome to my very first data analysis project! 🎉  
 In this project, I explored a sample Netflix dataset using Python to uncover some cool insights like which genres are most popular, how Netflix content has grown over the years, and how many shows are movies vs TV shows.
@@ -7,7 +7,7 @@ This was a hands-on way to practice real data cleaning, visualization, and basic
 
 ---
 
-## 🔍 What I Explored
+##  What I Explored
 
 Here’s what I did step by step:
 
@@ -19,7 +19,7 @@ Here’s what I did step by step:
 
 ---
 
-## 🗂 Files You’ll Find in This Project
+## Files You’ll Find in This Project
 
 | File Name               | What It Is                                           |
 |------------------------|------------------------------------------------------|
@@ -31,7 +31,7 @@ Here’s what I did step by step:
 
 ---
 
-## 🛠 Tools I Used
+## Tools I Used
 
 - Python
 - Pandas
@@ -41,7 +41,7 @@ Here’s what I did step by step:
 
 ---
 
-## 🚀 How to Try It Yourself
+## How to Try It Yourself
 
 If you want to run this yourself:
 
