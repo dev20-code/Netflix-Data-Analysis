@@ -1,6 +1,6 @@
 # Netflix Data Analysis
 
-Welcome to my very first data analysis project! 🎉  
+Welcome to my very first data analysis project! 
 In this project, I explored a sample Netflix dataset using Python to uncover some cool insights like which genres are most popular, how Netflix content has grown over the years, and how many shows are movies vs TV shows.
 
 This was a hands-on way to practice real data cleaning, visualization, and basic exploration using Pandas, Matplotlib, and Seaborn.
@@ -27,7 +27,7 @@ Here’s what I did step by step:
 | `netflix_analysis.py`  | Python script where I did all the analysis & plots   |
 | `content_type_pie.png` | A pie chart showing Movies vs TV Shows on Netflix    |
 | `release_trend.png`    | A line chart showing how Netflix grew over the years |
-| `README.md`            | This file you're reading right now 😊                |
+| `README.md`            | This file you're reading right now               |
 
 ---
 
